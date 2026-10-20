@@ -18,7 +18,7 @@ I enjoy exploring different programming languages, building projects, and learni
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiyapradeep)
 
 
-https://www.linkedin.com/in/jiya-pradeep-b8191b384/?isSelfProfile=true
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiya-pradeep-b8191b384/)
 ---
 
 ## 📊 GitHub Stats
