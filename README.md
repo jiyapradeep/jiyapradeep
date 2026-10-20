@@ -37,7 +37,7 @@ I enjoy exploring different programming languages, building projects, and learni
 
 ---
 
-### ✨ *Learning, building, and getting better every day.*
+###  *Learning, building, and getting better every day.*
 
 
 
