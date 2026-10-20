@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hey, I'm Jiya 
 
-<!--
-**jiyapradeep/JIYAPRADEEP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Tech Enthusiast 
 
-Here are some ideas to get you started:
+I enjoy exploring different programming languages, building projects, and learning how things work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Comfortable with Python
+-  Exploring Java
+-  Currently learning C
+-  Know HTML & CSS
+-  Working towards stronger development skills and internship opportunities
+
+
+---
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiyapradeep)
+
+
+https://www.linkedin.com/in/jiya-pradeep-b8191b384/?isSelfProfile=true
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyapradeep&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyapradeep&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+##  What I'm Working Towards
+
+- Building projects with Python and web technologies
+- Improving my programming and problem-solving skills
+- Exploring C and Java in more depth
+
+---
+
+### ✨ *Learning, building, and getting better every day.*
+
+
+
+
